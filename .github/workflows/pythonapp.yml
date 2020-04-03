@@ -27,7 +27,7 @@ jobs:
     - name: Source Code Analysis - Dependent Libraries Check
       run: |
         echo "This is a dependency safety check"
-        safety check requirements.txt
+        safety check .
     - name: Static Code Analysis - SonarQube
       run: |
         # docker run -e SONAR_HOST_URL=http://foo.acme:9000 --user="$(id -u):$(id -g)" -it -v "/path/to/project:/usr/src" sonarsource/sonar-scanner-cli
