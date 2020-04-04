@@ -6,7 +6,7 @@ ContinuousIntegration(CI) - ContinuousDeployment(CD) pipelines are the places wh
 
 ### Solution
 
-DevSecOps enhances the traditional CI-CD pipelines and make security as a first class citizen. Following is an exampl that demonstrates the DevSecOps pipeline
+DevSecOps enhances the traditional CI-CD pipelines and make security as a first class citizen. Following is an example that demonstrates the DevSecOps pipeline
 
 #### Stage-1: Checkout Source Code
 
@@ -37,3 +37,6 @@ DevSecOps enhances the traditional CI-CD pipelines and make security as a first 
 ![](./images/safety-tool.png)
 
 #### Stage-4: Static Code Analysis
+
+> Perform a static code analysis using tools like Coverity or SonarQube or VeraCode
+
