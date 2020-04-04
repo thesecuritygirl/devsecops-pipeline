@@ -8,7 +8,7 @@ ContinuousIntegration(CI) - ContinuousDeployment(CD) pipelines are the places wh
 
 DevSecOps enhances the traditional CI-CD pipelines and make security as a first class citizen. Following is an example that demonstrates the DevSecOps pipeline
 
-![DevSecOps pipeline](https://github.com/thesecuritygirl/devsecops-pipeline/workflows/DevSecOps%20pipeline/badge.svg)
+![DevSecOps pipeline](https://github.com/thesecuritygirl/devsecops-pipeline/workflows/DevSecOps%20pipeline/badge.svg?branch=master)
 
 ### Stages in Continuous Integration
 
